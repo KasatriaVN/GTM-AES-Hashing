@@ -2,5 +2,5 @@ homepage: "https://kasatria.vn/"
 documentation: "https://github.com/KasatriaVN/GTM-AES-Hashing/blob/main/README.md"
 versions:
   # Latest version
-  - sha: 93c155867f1dd5a2ebaf185419580038ad0130f0
+  - sha: f7791d512de503fe69fa480919c30b88a1ec76c9
     changeNotes: Initial release
